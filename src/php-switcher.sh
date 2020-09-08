@@ -173,13 +173,10 @@ Simplified PHP Version Switcher for MacOS
 Version $VERSION
 
     Options:
-        --from                  Current PHP version
-        --to                    New PHP version you want to switch to
-
         -h, --help              Display this help and exit
 
     Examples:
-        $(basename "$0") [--from=...] --to=...
+        $(basename "$0") 7.4
 
 "
     _printPoweredBy
@@ -206,7 +203,7 @@ function processArgs()
                 _printUsage
             ;;
             *)
-                _printUsage
+                PHP_TO_VERSION=$1
             ;;
         esac
     done
