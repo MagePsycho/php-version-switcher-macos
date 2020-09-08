@@ -28,5 +28,5 @@ php-switcher 7.4
 ```
 
 ## Screenshots
-![PHP Switcher Help](https://github.com/MagePsycho/php-version-switcher-macos/raw/master/docs/php-switcher-script-help-1.0.0.png "PHP Switcher Help")
+![PHP Switcher Help](https://github.com/MagePsycho/php-version-switcher-macos/raw/master/docs/php-switcher-script-help-1.0.1.png "PHP Switcher Help")
 
