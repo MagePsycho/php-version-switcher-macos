@@ -1,6 +1,7 @@
 # Bash Script: PHP Version Switcher for MacOS
 
 This utility script helps you to switch the version for your PHP installed via Homebrew on MacOS.
+
 *Currently it only supports PHP versions: `7.1`, `7.2`, `7.3` & `7.4`*
 
 
